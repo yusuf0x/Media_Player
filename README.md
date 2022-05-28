@@ -1,2 +1,2 @@
 # Media_Player
-Media PLayer in Python and PyQT5
+Media Player in Python and PyQT5
