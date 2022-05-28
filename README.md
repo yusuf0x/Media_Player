@@ -9,4 +9,4 @@ To run this project:
 $ python3 media_player.py your_video
 ``` 
 # Screenshot
-
+![screen](https://github.com/yusuf0x/Media_Player/blob/311bda58d887c5268e451661b826fd6842101e9b/screen.png)
