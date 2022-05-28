@@ -246,5 +246,3 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         video_player.play_from_commandLine(sys.argv[1])
     app.exec_()
-
-# https://www.youtube.com/watch?v=XkSRKebsJV8
