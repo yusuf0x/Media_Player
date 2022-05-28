@@ -2,7 +2,7 @@
 Media Player in Python and PyQT5
 
 ## Setup
-To run this project: 
+To run this application: 
  1. First option
    * press o to open video/audio
    * press p to play video/audio
