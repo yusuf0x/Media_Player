@@ -1,7 +1,7 @@
 # Media_Player
 Media Player in Python and PyQT5
 # requirements 
-1. python3.8
+1. Python3.8
 2. PyQt5=5.15.6
 # Setup
 To run this application: 
