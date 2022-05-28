@@ -1,7 +1,9 @@
 # Media_Player
 Media Player in Python and PyQT5
-
-## Setup
+# requirements 
+1. python3.8
+2. PyQt5=5.15.6
+# Setup
 To run this application: 
  1. First option
    * press o to open video/audio
