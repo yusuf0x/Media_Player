@@ -3,16 +3,10 @@ Media Player in Python and PyQT5
 
 ## Setup
 To run this project: 
-  [1
+ 1. press O to open file
+ 2. via command line
 ```
-$ 
-$ npm install
-$ npm start
-```
-## First Option 
-  ### press O to open file
-  ### press P to play/pause 
-## Play via command Line
-  ### python3 
+$ python3 media_player.py your_video
+``` 
 # Screenshot
 
